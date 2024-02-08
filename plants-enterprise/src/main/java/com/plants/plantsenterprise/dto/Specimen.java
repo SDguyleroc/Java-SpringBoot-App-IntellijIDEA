@@ -1,3 +1,8 @@
+/***
+ *
+ * Author: Guy-leroc Eusebio
+ *
+*/
 package com.plants.plantsenterprise.dto;
 
 import lombok.Data;
